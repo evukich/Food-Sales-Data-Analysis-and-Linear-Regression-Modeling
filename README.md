@@ -1,5 +1,14 @@
-# Food-Sales-Predictions
+# Outlet Sales Exploratory Data Analysis, Visualizations, and Supervised Machine Learning Project
 
-#This folder contains the data analysis and machine learning processes completed for the Coding Dojo Data Science and Machine Learning Core Assignments of the Part Time Course. 
-# Each part demonstrates an increasing knowledge and functionality of skills relating to data cleaning, data analysis, visualization, and linear regression modeling for predictive modeling. 
-#A short video presentation describes the final recommendations for Company X to continue their Sales predictions with a Linear Regression model and then expanding to utilize other more advanxced regression tree models.
+The aim of this project was to analyze the outlet sales historical variables to forecast sales and guide future business decisions. 
+
+These files demonstrate:
+  1. Data Cleansing Process
+  2. Data Visualizations with Python wrappers
+  3. Supervised Machine Learning Model Comparison (Linear Regression and Decision Tree Regression)
+  4. Link to Video Presentation of analysis and recommendations for business audience
+
+The highest performing predictive model was linear regression: 
+Train R2: 0.5615527181926836
+Test R2: 0.567134117820512
+
